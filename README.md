@@ -40,12 +40,14 @@
 - [ ] 《富足》· 吴军 — 贵阳机场看到 · [照片](photos/guiyang-airport/吴军_富足_见识.jpg)
 - [ ] 《见识》· 吴军（百万册纪念白金版）— 贵阳机场看到 · 同照见上
 - [ ] 《稻盛和夫给年轻人的忠告》· 德群 — 贵阳机场看到 · [照片](photos/guiyang-airport/稻盛和夫给年轻人的忠告.jpg)
+- [ ] 《怪诞行为学》· 丹·艾瑞里（可预测的非理性）— 贵阳机场看到 · [照片](photos/guiyang-airport/怪诞行为学.jpg)
 
 <!-- 贵阳机场书架照片 -->
 ![历史的温度](photos/guiyang-airport/历史的温度.jpg)
 ![得佳胜的出海之路](photos/guiyang-airport/得佳胜的出海之路.jpg)
 ![吴军《富足》《见识》](photos/guiyang-airport/吴军_富足_见识.jpg)
 ![稻盛和夫给年轻人的忠告](photos/guiyang-airport/稻盛和夫给年轻人的忠告.jpg)
+![怪诞行为学](photos/guiyang-airport/怪诞行为学.jpg)
 
 ## 去哪玩 / ShangHai
 
