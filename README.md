@@ -6,9 +6,9 @@
 
 ## 文章 / 链接
 
-- [ ] [微信文章](https://mp.weixin.qq.com/s/bT_ulhdsCXby6erFk6fFMA)
-- [ ] [微信文章 · 浙江现货市场：竞价空间组成要素解析](https://mp.weixin.qq.com/s/BvfH8PdC_u0EKLjT12q96A)（原 Work）
-- [ ] [微信文章](https://mp.weixin.qq.com/s/qnRybmrhsT_eCj8nSVhiJg)（原 Work）
+- [ ] [分享一份给产品团队的9条实战团队公约](https://mp.weixin.qq.com/s/bT_ulhdsCXby6erFk6fFMA)
+- [ ] [浙江现货市场：竞价空间组成要素解析](https://mp.weixin.qq.com/s/BvfH8PdC_u0EKLjT12q96A)（原 Work）
+- [ ] [“电算师”面世！新一代售电经营决策系统，让每一度电的经营更聪明](https://mp.weixin.qq.com/s/qnRybmrhsT_eCj8nSVhiJg)（原 Work）
 - [ ] [scripod 总结](https://scripod.com/episode/6wxbr39i9c93mgd420tevmel)
 - [ ] qa.agent 招聘/状态页（含 token，勿外传） — 见私密笔记，勿提交明文 token 到公开处
 - [ ] 分享一份给产品团队的9条实战团队公约（原 Cache）
@@ -16,9 +16,9 @@
 
 ## 播客
 
-- [ ] [小宇宙](https://www.xiaoyuzhoufm.com/episode/61589826ae1d32c4f86c1933)
-- [ ] [小宇宙](https://www.xiaoyuzhoufm.com/episode/628ed8046c7eec4d0113c99e)
-- [ ] [小宇宙](https://www.xiaoyuzhoufm.com/episode/65e3cc4d2e0f97da8d0d786d)
+- [ ] [E43.产品 | 求职经验谈：写简历的“关键词”思维 & 面试答“成长”比成功更重要](https://www.xiaoyuzhoufm.com/episode/61589826ae1d32c4f86c1933)
+- [ ] [05上桌聊 | 打工秘籍上：写对了简历，每天都是金三银四](https://www.xiaoyuzhoufm.com/episode/628ed8046c7eec4d0113c99e)
+- [ ] [19.如何写好简历](https://www.xiaoyuzhoufm.com/episode/65e3cc4d2e0f97da8d0d786d)
 - [ ] [EP125 12 个问题，搞懂 Vibe Coding 爆火真相](https://xyzfm.link/s/QOolmx) — 标记 1:02:51；嘉宾后面分享的内容/社区/播客
 - [ ] 韦青 · 无人知晓播客整理
 - [ ] [灵感电波 · 一切都很流畅](https://www.linggandianbo.com/newsletter-119/)
