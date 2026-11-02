@@ -57,3 +57,5 @@
 
 - [ ] 求职简历相关（原个人列表）
 - [ ] UI 设计收集
+- [ ] [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) — 人机交互 / 设计指南
+- [ ] [Material Design 3](https://m3.material.io/) — Google 人机交互 / 设计系统指南
