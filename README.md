@@ -50,6 +50,10 @@
 ![稻盛和夫给年轻人的忠告](photos/guiyang-airport/稻盛和夫给年轻人的忠告.jpg)
 ![怪诞行为学](photos/guiyang-airport/怪诞行为学.jpg)
 
+## 电影
+
+- [ ] 《生日快乐》 — 埃及电影，@HiTw93 推荐
+
 ## 去哪玩 / ShangHai
 
 - [x] wtcc（原 ShangHai 列表）· WTCC 2026 已于 10/22–25 结束
